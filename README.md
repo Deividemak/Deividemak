@@ -21,7 +21,7 @@
 
 - 🎓 Cursando **Bacharelado em Sistemas de Informação** (UPIS).
 - 💼 Atuação prática como **Desenvolvedor Full Stack**, liderando a evolução de intranets e sistemas corporativos em produção.
-- 💡 Criador e mantenedor de produtos **SaaS em produção** com integrações de pagamentos (Pix) e mensageria WhatsApp.
+- 💡 Criador de produtos **SaaS** com integrações de pagamentos (Pix) e mensageria WhatsApp. O Agendamente Oficial operou em produção e hoje tem uma demo online aberta.
 - 🤖 Apaixonado por **Automações de Processos & IA**, criando fluxos inteligentes com **n8n**, **Python** e **Gemini API** com foco em mitigação de *Prompt Injection*.
 - 📍 Baseado em Brasília - DF, Brasil.
 
@@ -78,19 +78,20 @@
         <b>Plataforma SaaS de agendamento online com cobrança Pix automatizada e notificações via WhatsApp.</b>
       </p>
       <p align="center">
-        <code>Node.js</code> • <code>TypeScript</code> • <code>Express</code> • <code>PostgreSQL</code> • <code>Tailwind CSS</code> • <code>PWA</code>
+        <code>Node.js</code> • <code>TypeScript</code> • <code>Express</code> • <code>PostgreSQL</code> • <code>Mercado Pago</code> • <code>Evolution API</code> • <code>PWA</code>
       </p>
       <p align="center">
-        <a href="https://agendamenteoficial.com.br">🌐 Acessar Sistema em Produção</a>
+        <a href="https://agendamente-oficial-demo.onrender.com">🧪 Demo online</a> &nbsp;•&nbsp;
+        <a href="https://github.com/Deividemak/agendamente-oficial">💻 Código no GitHub</a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🚐 Vancontrol (SaaS)</h3>
       <p align="center">
-        <b>Plataforma completa para gestão e roteirização inteligente de transporte escolar e controle financeiro de frotas.</b>
+        <b>SaaS multi-empresa para transporte escolar: rotas otimizadas no mapa, app do motorista offline, portal dos pais com van ao vivo, cobrança Pix e conformidade com a LGPD.</b>
       </p>
       <p align="center">
-        <code>React</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>SQL</code> • <code>Tailwind CSS</code>
+        <code>React</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Node.js</code> • <code>MariaDB</code> • <code>Leaflet/OSM</code> • <code>OSRM</code> • <code>Tailwind CSS</code>
       </p>
       <p align="center">
         <a href="https://github.com/Deividemak/vancontrol-saas">💻 Ver Repositório no GitHub</a>
